@@ -1,5 +1,6 @@
 # Electronic Voting Machine (EVM)
 
+
 Welcome to the **Electronic Voting Machine (EVM)** project! This Verilog-based digital voting system securely simulates an election process, ensuring vote authenticity, real-time vote counting, and result declaration.
 
 ---
@@ -99,7 +100,7 @@ Refer to the project documentation for the complete flow diagram.
 ---
 
 ## Contributors
-- [Saugata Roy Arghya](https://github.com/yourusername)
+- [Saugata Roy Arghya](https://github.com/saugataroyarghya)
 - [Sk. Azraf Sami](https://github.com/Sk-Azraf-Sami)
   
 ---
