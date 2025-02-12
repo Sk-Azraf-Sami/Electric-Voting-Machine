@@ -40,21 +40,27 @@ Refer to the project documentation for the complete flow diagram.
 
 ## Usage Instructions
 
-1. **Compiling & Running:**
+. **Clone the Repository:**
 
-   - Use a Verilog simulator like **ModelSim/Xilinx Vivado**.
-   - Load the Verilog modules and run test benches.
-   - Observe state transitions and vote counting via LED indicators.
+   ```sh
 
-2. **Simulating Voting:**
+   git clone https://github.com/Sk-Azraf-Sami/Electric-Voting-Machine.git
 
-   - Provide input signals to represent voters and admin actions.
-   - Monitor the outputs to validate vote registration and results.
+   cd Electric-Voting-Machine
 
-3. **Resetting the System:**
+   ```
 
-   - Trigger the reset functionality to clear votes and start fresh.
-  
+2. **Install Active-HDL-FPGA Simulation:**
+
+   - Download and install Active-HDL-FPGA Simulation software.
+
+3. **Simulate the System:**
+
+   - Open the installed simulation software.
+
+   - Load the `breadboard.v` file to simulate the system.
+
+
 ---
 
 ## Technologies Used
@@ -66,6 +72,19 @@ Refer to the project documentation for the complete flow diagram.
 ## Contributors
 - [Saugata Roy Arghya](https://github.com/saugataroyarghya)
 - [Sk. Azraf Sami](https://github.com/Sk-Azraf-Sami)
+
+---
+
+## Contributing
+If you would like to contribute to the development of the Blood Donor Finder app, please follow these guidelines:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin feature/your-feature-name`).
+6. Create a new Pull Request.
+
 
 ## License
 
