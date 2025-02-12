@@ -1,0 +1,13 @@
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\evm\src/clock.v|]
+TemplateId=2
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\evm\src/full_adder.v|]
+TemplateId=2
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\evm\src/clock_tb.v|]
+TemplateId=2
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\evm\src/breadboard.v|]
+TemplateId=2
+ActiveDocument=1
+tab=lu

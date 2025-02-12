@@ -1,0 +1,1 @@
+-o C:/Users/USER/Documents/evm/evm/compile -lc C:/Users/USER/Documents/evm/library.cfg -fl C:/Users/USER/Documents/evm/evm/projlib.cfg -pli "C:/Aldec/Active-HDL-Student-Edition/bin/systf.dll" -O2 -sve -msg 5 -sv2k17 -work evm C:/Users/USER/Documents/evm/evm/src/breadboard.v 

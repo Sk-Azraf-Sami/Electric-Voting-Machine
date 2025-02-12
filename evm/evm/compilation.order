@@ -1,0 +1,10 @@
+.\src\clock.v
+.\src\clock_tb.v
+.\src\full_adder.v
+.\src\full_adder_tb.v
+.\src\adder_4bit.v
+.\src\adder_4bit_tb.v
+.\src\comparator.v
+.\src\comp_tb.v
+.\src\memory_control_unit.v
+.\src\breadboard.v
