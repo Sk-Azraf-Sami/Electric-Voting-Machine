@@ -19,53 +19,6 @@ Welcome to the **Electronic Voting Machine (EVM)** project! This Verilog-based d
 - **Result Declaration:** Outputs final vote counts after voting concludes.
 - **Reset Functionality:** Resets the system for subsequent voting sessions.
 
----
-
-## Implementation Details
-
-### 1. Control Unit
-
-- Manages initialization, voting, result display, and reset.
-- Implements state transitions based on user/admin inputs.
-
-### 2. Authentication Module
-
-- Verifies voter eligibility using predefined logic.
-- Prevents unauthorized access by validating input data.
-
-### 3. Vote Casting Module
-
-- Maps input buttons to candidates.
-- Prevents multiple votes from a single input.
-
-### 4. Vote Counter Module
-
-- Securely stores vote counts in registers.
-- Ensures accurate vote tallying and real-time updates.
-
-### 5. Display Module
-
-- Visualizes the system state (idle, voting, results mode).
-- Displays vote counts in binary format using LEDs.
-
-### 6. Admin Module
-
-- Controls session transitions (start, end, reset).
-- Protects voting process integrity.
-
----
-
-## State Diagram
-
-1. **T0 (Start):** System is in standby mode.
-2. **T1 (Authentication):** Voter authentication process.
-3. **T2 (Flag):** Checks and sets necessary voting flags.
-4. **T3 (Voting Ready):** Voting process is ready to proceed.
-5. **T4 (Mode Selection):** Admin or voter selects operation mode.
-6. **T5 (Sufficient Time):** Ensures adequate time for voting.
-7. **T6 (Result):** Displays final vote counts.
-8. **T7 (Vote Display):** Summarizes votes based on selected mode.
-9. **T8 (Failure State):** Handles invalid flag/authentication errors.
 
 ---
 
@@ -101,30 +54,18 @@ Refer to the project documentation for the complete flow diagram.
 3. **Resetting the System:**
 
    - Trigger the reset functionality to clear votes and start fresh.
-
----
-
-## Contributors
-- [Saugata Roy Arghya](https://github.com/saugataroyarghya)
-- [Sk. Azraf Sami](https://github.com/Sk-Azraf-Sami)
   
 ---
 
 ## Technologies Used
 
 - **Verilog** for hardware description.
-- **FPGA/Simulation Software** for testing.
-- **LED Display & Registers** for vote counting.
 
 ---
 
-## Future Improvements
-
-- Enhance authentication with unique voter IDs.
-- Implement encrypted vote storage.
-- Add remote monitoring for election transparency.
-
----
+## Contributors
+- [Saugata Roy Arghya](https://github.com/saugataroyarghya)
+- [Sk. Azraf Sami](https://github.com/Sk-Azraf-Sami)
 
 ## License
 
