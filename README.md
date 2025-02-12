@@ -15,7 +15,6 @@ Welcome to the **Electronic Voting Machine (EVM)** project! This Verilog-based d
 - **Multiple Candidates Voting:** Secure voting for multiple candidates.
 - **Vote Authentication:** Ensures only valid votes are cast.
 - **Real-Time Vote Counting:** Dynamically updates vote counts.
-- **Admin Control:** Allows starting, ending, and resetting voting sessions.
 - **Result Declaration:** Outputs final vote counts after voting concludes.
 - **Reset Functionality:** Resets the system for subsequent voting sessions.
 
