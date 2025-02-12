@@ -1,5 +1,10 @@
 # Electronic Voting Machine (EVM)
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Sk-Azraf-Sami/Electric-Voting-Machine/blob/main/LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0-green)](https://github.com/yourusername/your-repo)
+[![Last Commit](https://img.shields.io/github/last-commit/Sk-Azraf-Sami/Electric-Voting-Machine)](https://github.com/Sk-Azraf-Sami/Electric-Voting-Machine/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/Sk-Azraf-Sami/Electric-Voting-Machine)](https://github.com/Sk-Azraf-Sami/Electric-Voting-Machine/graphs/contributors)
+[![Languages](https://img.shields.io/github/languages/count/Sk-Azraf-Sami/Electric-Voting-Machine)](https://github.com/Sk-Azraf-Sami/Electric-Voting-Machine)
 
 Welcome to the **Electronic Voting Machine (EVM)** project! This Verilog-based digital voting system securely simulates an election process, ensuring vote authenticity, real-time vote counting, and result declaration.
 
@@ -129,7 +134,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Documentation
 
-For detailed documentation, please refer to [EVM\_Report.pdf](https://github.com/yourusername/your-repo/blob/main/EVM_Report.pdf).
+For detailed documentation, please refer to [documentation](https://github.com/Sk-Azraf-Sami/Electric-Voting-Machine/blob/main/dsd_project.pdf).
 
 ---
 
